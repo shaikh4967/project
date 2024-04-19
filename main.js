@@ -39,8 +39,8 @@ tl.from(".left button", {
 })
 
 tl.from(".section-1 .card", {
-    // x: 500,
-    scale:3,
+    x: 500,
+    // scale:3,
     opacity: 0,
     duration: 0.5
 })
